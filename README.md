@@ -8,7 +8,7 @@
 | 2 | `extends` ব্যবহার করে extend করা যায় | `&` intersection দিয়ে extend করা যায় |
 | 3 | এক interface বারবার লিখলে merge হয় | type merge করা যায় না |
 | 4 | union বানানো যায় না | ২ বা তার অধিক type union করা যায় |
-| 5 | component structures-এ বেশি ব্যবহার হয় | union, complex compositions-এ ব্যবহার হয় |
+| 5 |  OOP স্টাইলে ডিজাইনের জন্য উপযুক্ত | ফাংশনাল প্রোগ্রামিং স্টাইলের জন্য উপযুক্ত |
 
 
 
